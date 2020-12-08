@@ -26,7 +26,7 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 <img src="https://user-images.githubusercontent.com/45147475/101283742-7da9f800-37ed-11eb-86ce-4b2c702962b4.PNG" width="35%"></img>
 
 # Update 08 december 2020 on Version 3  
-+Added Live Screen (MediaProjection API has been available since API Level 21, for more: https://developer.android.com/  
++Added Live Screen (MediaProjection API has been available since API Level 21, for more: https://developer.android.com/reference/android/media/projection/MediaProjection  
 +File Manager has been improvement.  
 +Fully English version.  
 +Now it is supporting 5 digits Port.  
