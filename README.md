@@ -30,7 +30,8 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 +File Manager has been improvement.  
 +Fully English version.  
 +Now it is supporting 5 digits Port.  
-+Fixed English Flag issue.  
++Fixed English Flag issue. 
++Added victim name and ip adress as title of control windows. Ex: Keylogger - Victim@192.168.2.78:7675  
 and other changes, fixing, improvents. :)
 
 # Version 3  
