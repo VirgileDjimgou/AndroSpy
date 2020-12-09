@@ -8,7 +8,7 @@ An Android RAT that written in completely C# by me (qH0sT a.k.a Sagopa K)
 
 For Keylogger your victim must open Accessibility in Settings of Device  
 
-<img src="https://user-images.githubusercontent.com/45147475/101618575-3e64ec80-3a23-11eb-8462-8d36606878d3.jpg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/45147475/101618575-3e64ec80-3a23-11eb-8462-8d36606878d3.jpg" width="25%"></img> 
 
 Minumum Android Version: 4.1    
 
